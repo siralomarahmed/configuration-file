@@ -33,7 +33,6 @@ let $input_hex=0
 
 function Binary_hex_toggle()
   set binary
-  
 
   if $input_hex>0
     :%!xxd -r
