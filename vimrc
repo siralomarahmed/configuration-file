@@ -25,4 +25,25 @@ set expandtab
 set autoindent
 
 
+"************************************_Toggle between hex and binary_>"
+
+noremap <F8> :call Binary_hex_toggle()<CR>
+
+let $input_hex=0
+
+function Binary_hex_toggle()
+  set binary
+  
+
+  if $input_hex>0
+    :%!xxd -r
+    let $input_hex=0
+  else
+    :%!xxd
+    let $input_hex=1
+  endif
+
+endfunction
+
+
 "********************************************************************"
