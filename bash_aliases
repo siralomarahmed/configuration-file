@@ -8,3 +8,12 @@
 #
 # Ahmed Alomar - @siralomarahmed
 ######################################################################
+
+######################################################_File Listing_>#
+
+alias ls='ls --group-directories-first'
+alias ll='ls -lh --group-directories-first'
+alias list_hidden='ls -A --group-directories-first | grep "^\."'
+
+
+######################################################################
