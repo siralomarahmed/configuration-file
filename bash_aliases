@@ -16,4 +16,11 @@ alias ll='ls -lh --group-directories-first'
 alias list_hidden='ls -A --group-directories-first | grep "^\."'
 
 
+###############################################################_Git_>#
+
+alias gaddall='git add .'
+alias gcommit='git commit -m'
+alias gstatus='git status'
+
+
 ######################################################################
