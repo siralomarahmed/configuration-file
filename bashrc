@@ -24,4 +24,11 @@ export PS1="\[$(tput bold)\]\[$(tput setaf 3)\]\n[\[$(tput setaf 1)\]\
 \[$(tput sgr0)\]"
 
 
+###################################################_History Options_>#
+
+HISTSIZE=500
+HISTFILESIZE=1000
+HISTCONTROL=ignoreboth
+
+
 ######################################################################
