@@ -31,4 +31,10 @@ HISTFILESIZE=1000
 HISTCONTROL=ignoreboth
 
 
+#####################################################_Shell Options_>#
+
+shopt -s checkwinsize
+shopt -s histappend
+
+
 ######################################################################
