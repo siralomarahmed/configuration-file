@@ -16,4 +16,12 @@ if [ -f ~/.bash_aliases ]; then
 fi
 
 
+####################################################_Prompt Options_>#
+
+export PS1="\[$(tput bold)\]\[$(tput setaf 3)\]\n[\[$(tput setaf 1)\]\
+\u\[$(tput setaf 3)\] @ \[$(tput setaf 1)\]\h\[$(tput setaf 3)\]]\
+\[$(tput setaf 3)\] > \[$(tput setaf 2)\]\w\[$(tput setaf 3)\]\n$ \
+\[$(tput sgr0)\]"
+
+
 ######################################################################
