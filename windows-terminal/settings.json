@@ -170,6 +170,39 @@
 
       "purple": "#400040",
       "brightPurple": "#590059"
+    },
+    {
+      "name": "MellowCream-Dark",
+
+      "cursorColor": "#BFBF40",
+      "selectionBackground": "#6D7980",
+
+      "background": "#213131",
+      "foreground": "#C0A1A1",
+
+      "black": "#060404",
+      "brightBlack": "#875A5A",
+
+      "white": "#C6C3C3",
+      "brightWhite": "#DAD8D8",
+
+      "red": "#BF4040",
+      "brightRed": "#DB9292",
+
+      "green": "#40BF40",
+      "brightGreen": "#84D684",
+
+      "blue": "#4040BF",
+      "brightBlue": "#8484D6",
+
+      "yellow": "#BFBF40",
+      "brightYellow": "#D6D684",
+
+      "cyan": "#40BFBF",
+      "brightCyan": "#84D6D6",
+
+      "purple": "#BF40BF",
+      "brightPurple": "#D684D6"
     }
   ]
 }
