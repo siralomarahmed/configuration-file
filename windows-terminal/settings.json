@@ -69,7 +69,8 @@
     "defaults":
     {
       "bellStyle": "none",
-      "historySize": 4096
+      "historySize": 4096,
+      "scrollbarState": "hidden"
     }
   },
   
