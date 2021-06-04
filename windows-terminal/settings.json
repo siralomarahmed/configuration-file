@@ -44,6 +44,10 @@
         "singleLine": false
       },
       "keys": "ctr+c"
+    },
+    {
+      "command": "paste",
+      "keys": "ctr+v"
     }
   ],
   "profiles": {},
