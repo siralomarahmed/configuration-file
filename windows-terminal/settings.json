@@ -93,6 +93,16 @@
       // "guid": "{00000000-0000-0000-0000-000000000000}",
       "source": "Windows.Terminal.PowershellCore"
       // "commandline": ""
+    },
+    {
+      "name": "Windows Subsystem for Linux",
+      "tabTitle": "WSL",
+
+      "hidden": false,
+
+      // "guid": "{00000000-0000-0000-0000-000000000000}",
+      "source": "Windows.Terminal.Wsl"
+      //"commandline": ""
     }
   ],
   
