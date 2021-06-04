@@ -75,7 +75,8 @@
       "fontFace": "Cascadia Code",
       "cursorShape": "emptyBox",
       "useAcrylic": false,
-      "acrylicOpacity": 0.9
+      "acrylicOpacity": 0.9,
+      "experimental.retroTerminalEffect": false
     }
   },
   
