@@ -70,7 +70,9 @@
     {
       "bellStyle": "none",
       "historySize": 4096,
-      "scrollbarState": "hidden"
+      "scrollbarState": "hidden",
+
+      "fontFace": "Cascadia Code"
     }
   },
   
