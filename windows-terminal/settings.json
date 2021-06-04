@@ -30,5 +30,6 @@
   "$schema": "https://aka.ms/terminal-profiles-schema",
 
   "launchMode": "maximized",
-  "initialCols": 148
+  "initialCols": 148,
+  "initialRows": 41
 }
