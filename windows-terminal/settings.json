@@ -34,5 +34,7 @@
   "initialRows": 41,
   "tabWidthMode": "equal",
   "copyFormatting": "none",
-  "copyOnSelect": false
+  "copyOnSelect": false,
+
+  "actions": []
 }
