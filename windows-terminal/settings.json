@@ -68,7 +68,8 @@
   {
     "defaults":
     {
-      "bellStyle": "none"
+      "bellStyle": "none",
+      "historySize": 4096
     }
   },
   
