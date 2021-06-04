@@ -48,6 +48,10 @@
     {
       "command": "paste",
       "keys": "ctr+v"
+    },
+    {
+      "command": "find",
+      "keys": "ctr+shift+f"
     }
   ],
   "profiles": {},
