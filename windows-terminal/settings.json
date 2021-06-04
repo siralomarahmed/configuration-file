@@ -113,6 +113,16 @@
       // "guid": "{00000000-0000-0000-0000-000000000000}",
       "source": "Windows.Terminal.Azure"
       //"commandline": ""
+    },
+    {
+      "name": "Windows PowerShell",
+      "tabTitle": "Win PS",
+
+      "hidden": true,
+
+      // "guid": "{00000000-0000-0000-0000-000000000000}",
+      // "source": "",
+      "commandline": "powershell.exe"
     }
   ],
   
