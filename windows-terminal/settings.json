@@ -103,6 +103,16 @@
       // "guid": "{00000000-0000-0000-0000-000000000000}",
       "source": "Windows.Terminal.Wsl"
       //"commandline": ""
+    },
+    {
+      "name": "Azure Cloud Shell",
+      "tabTitle": "Azure",
+
+      "hidden": false,
+
+      // "guid": "{00000000-0000-0000-0000-000000000000}",
+      "source": "Windows.Terminal.Azure"
+      //"commandline": ""
     }
   ],
   
