@@ -123,6 +123,16 @@
       // "guid": "{00000000-0000-0000-0000-000000000000}",
       // "source": "",
       "commandline": "powershell.exe"
+    },
+    {
+      "name": "Command Prompt",
+      "tabTitle": "CMD",
+
+      "hidden": true,
+
+      // "guid": "{00000000-0000-0000-0000-000000000000}",
+      // "source": "",
+      "commandline": "cmd.exe"
     }
   ],
   
