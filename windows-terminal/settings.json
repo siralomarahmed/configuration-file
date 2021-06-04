@@ -73,7 +73,8 @@
       "scrollbarState": "hidden",
 
       "fontFace": "Cascadia Code",
-      "cursorShape": "emptyBox"
+      "cursorShape": "emptyBox",
+      "useAcrylic": false
     }
   },
   
