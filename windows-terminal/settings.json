@@ -72,7 +72,8 @@
       "historySize": 4096,
       "scrollbarState": "hidden",
 
-      "fontFace": "Cascadia Code"
+      "fontFace": "Cascadia Code",
+      "cursorShape": "emptyBox"
     }
   },
   
