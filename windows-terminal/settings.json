@@ -27,5 +27,6 @@
 
 
 {
-  "$schema": "https://aka.ms/terminal-profiles-schema"
+  "$schema": "https://aka.ms/terminal-profiles-schema",
+  "launchMode": "maximized"
 }
