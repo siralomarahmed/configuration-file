@@ -36,5 +36,6 @@
   "copyFormatting": "none",
   "copyOnSelect": false,
 
-  "actions": []
+  "actions": [],
+  "profiles": {}
 }
