@@ -36,7 +36,16 @@
   "copyFormatting": "none",
   "copyOnSelect": false,
 
-  "actions": [],
+  "actions":
+  [
+    {
+      "command": {
+        "action": "copy",
+        "singleLine": false
+      },
+      "keys": "ctr+c"
+    }
+  ],
   "profiles": {},
   "schemes": []
 }
