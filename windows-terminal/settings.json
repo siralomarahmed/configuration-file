@@ -63,6 +63,11 @@
       "keys": "alt+shift+d"
     }
   ],
-  "profiles": {},
+
+  "profiles":
+  {
+    "defaults": {}
+  },
+  
   "schemes": []
 }
