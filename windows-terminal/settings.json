@@ -136,5 +136,40 @@
     }
   ],
   
-  "schemes": []
+  "schemes":
+  [
+    {
+      "name": "MellowCream-Light",
+
+      "cursorColor": "#E57300",
+      "selectionBackground": "#6D7980",
+
+      "background": "#FFF2e5",
+      "foreground": "#59597F",
+
+      "black": "#262626",
+      "brightBlack": "#676767",
+
+      "white": "#7F7F7F",
+      "brightWhite": "#727F72",
+
+      "red": "#7F0000",
+      "brightRed": "#B20000",
+
+      "green": "#007F00",
+      "brightGreen": "#00B200",
+
+      "blue": "#00007F",
+      "brightBlue": "#0000B2",
+
+      "yellow": "#E57300",
+      "brightYellow": "#FF8C19",
+
+      "cyan": "#007F7F",
+      "brightCyan": "#00B2B2",
+
+      "purple": "#400040",
+      "brightPurple": "#590059"
+    }
+  ]
 }
